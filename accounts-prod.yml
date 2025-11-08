@@ -6,7 +6,7 @@ build:
 accounts:
   message: "Hello from accounts service production mode"
   contactDetails:
-    email: "{cypher}69821753777348d7852c96e768613cbcb96fc9dbbcaba2cab6f5d271da187d3eee9ae6fb8b41cb707320d9bebe971700"
+    email: "{cipher}69821753777348d7852c96e768613cbcb96fc9dbbcaba2cab6f5d271da187d3eee9ae6fb8b41cb707320d9bebe971700"
     phone: "123456789"
   onCallSupport:
     - 735 584 8222
