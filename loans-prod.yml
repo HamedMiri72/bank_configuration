@@ -4,7 +4,7 @@ build:
   version: "V3.0"
 
 loans:
-  message: "Welcome to loans service from production group"
+  message: "Welcome to loans service from prod group"
   contactDetails:
     name: "Hamed miri"
     email: "hamedmiri72@gmail.com"
