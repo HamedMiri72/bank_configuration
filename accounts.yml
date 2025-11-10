@@ -4,7 +4,7 @@ build:
   version: "V3.0"
 
 accounts:
-  message: "Hello from accounts response from webhook service"
+  message: "Hello from accounts webhook service"
   contactDetails:
     email: "hamedmiri72@gmail.com"
     phone: "123456789"
